@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Computer Science <br>🎯 Goals: <br>🎲 Fun fact: I can speak more than five languages</p>
+<p align="left">📚 I'm currently learning Computer Science <br>🎲 Fun fact: I can speak more than five languages</p>
 
 ###
 
